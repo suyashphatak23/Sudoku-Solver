@@ -1,4 +1,4 @@
 # Sudoku-Solver
 C Program for Sudoku-Solver
 
-Refer Powerpoint presentation for more information 
+Refer this <a href="https://github.com/suyashphatak23/Sudoku-Solver/blob/master/PC%20PPT.pdf">file</a>
